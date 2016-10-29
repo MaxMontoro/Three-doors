@@ -1,8 +1,8 @@
 '''
-There are three doors, behind one of which there is a pize. 
-- You choose a door
+There are three doors, behind one of which there is a prize. 
+- You choose a door at random.
 - A door that you have not chosen is revealed to be an empty one.
-- There are two doors left: the one that you have chosen initially and another.
+- There are two doors left: the one that you have chosen initially, and another one.
 - Do you switch doors in order to increase your chances of winning?
 '''
 
